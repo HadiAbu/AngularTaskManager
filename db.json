@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": " Taco Hunting",
+      "day": " May 5th at 10:30pm",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": " Burger Crunching",
+      "day": " May 6th at 11:30pm",
+      "reminder": false
+    },
+    {
+      "text": "Skydiving Netherlands",
+      "day": "May 7th at 12:30",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
