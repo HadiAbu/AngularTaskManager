@@ -1,6 +1,7 @@
 # TaskManager
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+
 <img width="431" alt="image" src="https://user-images.githubusercontent.com/12135464/220327566-b70b7273-5682-4657-af98-3900c12029de.png">
 <img width="314" alt="image" src="https://user-images.githubusercontent.com/12135464/220327616-3ad05215-76d5-4022-8cba-ec52bf383826.png">
 <img width="305" alt="image" src="https://user-images.githubusercontent.com/12135464/220327656-27fac5bf-8aa1-4f28-be78-6d97afc6a3ae.png">
